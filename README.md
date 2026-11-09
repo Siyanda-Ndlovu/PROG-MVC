@@ -8,24 +8,18 @@ This project was developed as part of the Programming 2B Portfolio of Evidence (
 Technologies Used
 
 C#
-ASP.NET Core MVC
-ASP.NET Core Web API
-SQL Server
-HTML and CSS
-Bootstrap
-Visual Studio 2022
-GitHub
+-ASP.NET Core MVC
+-ASP.NET Core Web API
+-SQL Server
+-HTML and CSS
+-Bootstrap
+-Visual Studio 2022
+-GitHub
 
 System Features
-
-Organiser
-
-Register and log in
-
-Create and manage racing events
-
-Manage event categories
-
-View participant enrolments
-
-Capture and view race results
+-Organiser
+-Register and log in
+-Create and manage racing events
+-Manage event categories
+-View participant enrolments
+-Capture and view race results-
