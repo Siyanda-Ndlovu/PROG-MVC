@@ -48,9 +48,6 @@ How to Run the Project
 7. Open the MVC application in your browser.
 
 Local Development URLs
-
 Web API: https://localhost:7271/
-
 MVC Application: https://localhost:7259/
-
 The API and MVC applications must both be running for the system to communicate correctly.
