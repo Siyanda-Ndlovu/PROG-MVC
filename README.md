@@ -23,3 +23,19 @@ System Features
 -Manage event categories
 -View participant enrolments
 -Capture and view race results-
+
+Participant
+-Register and log in
+-View upcoming racing events
+-Enter available events
+-View enrolled events
+-View race results
+-View profile information
+-Project Structure
+
+The solution contains the following main components:
+RaceDay_MVC: The frontend application that allows users to interact with the system.
+RaceDayPOE_part2: The Web API that processes requests and communicates with the database.
+RaceDay_Test: Unit tests for the application.
+
+
