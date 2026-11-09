@@ -1,2 +1,2 @@
 # PROG-MVC
-PROG Part 3 MVC
+PROG Part 3 MV
