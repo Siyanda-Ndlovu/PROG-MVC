@@ -51,3 +51,22 @@ Local Development URLs
 Web API: https://localhost:7271/
 MVC Application: https://localhost:7259/
 The API and MVC applications must both be running for the system to communicate correctly.
+
+Database
+-RaceDay uses SQL Server to store application information.
+-The main database tables include:
+-Users
+-Organisers
+-Participants
+-Events
+-Categories
+-Enrolments
+-Results
+
+Testing
+The solution includes unit tests for selected API controller functionality.
+GitHub Actions can be configured to build the solution and run automated tests.
+
+Conclusion
+
+RaceDay demonstrates the use of ASP.NET Core MVC, Web API and SQL Server to develop an event management application with separate organiser and participant functionality.
