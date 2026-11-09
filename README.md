@@ -31,11 +31,11 @@ Participant
 -View enrolled events
 -View race results
 -View profile information
--Project Structure
 
+Project Structure
 The solution contains the following main components:
-RaceDay_MVC: The frontend application that allows users to interact with the system.
-RaceDayPOE_part2: The Web API that processes requests and communicates with the database.
-RaceDay_Test: Unit tests for the application.
+-RaceDay_MVC: The frontend application that allows users to interact with the system.
+-RaceDayPOE_part2: The Web API that processes requests and communicates with the database.
+-RaceDay_Test: Unit tests for the application.
 
 
