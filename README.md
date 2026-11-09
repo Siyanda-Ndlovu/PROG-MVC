@@ -15,3 +15,17 @@ HTML and CSS
 Bootstrap
 Visual Studio 2022
 GitHub
+
+System Features
+
+Organiser
+
+Register and log in
+
+Create and manage racing events
+
+Manage event categories
+
+View participant enrolments
+
+Capture and view race results
